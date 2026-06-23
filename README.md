@@ -200,7 +200,7 @@ System Design          ███░░░░░░░░░░░░░ 20%
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/vinayakkattimani/)">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
