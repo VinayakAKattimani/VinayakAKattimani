@@ -1,83 +1,146 @@
-<h1 align="center">Hi 👋, I'm Vinayak Kattimani</h1>
+<div align="center">
 
-<h3 align="center">Aspiring Software Engineer | Java Backend Developer | SaaS Builder</h3>
+# Hey there 👋 I'm Vinayak Kattimani
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Building+Projects+One+Commit+At+A+Time;Learning+DSA+%26+System+Design;Future+SaaS+Founder" />
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=VinayakAKattimani&label=Profile+Views&color=0e75b6&style=for-the-badge)
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Engineering Graduate from India
-- 💻 Learning Java, Spring Boot, JDBC, PostgreSQL and REST APIs
-- 🌱 Currently improving Data Structures & Algorithms
-- ⚛️ Exploring React for Full Stack Development
-- 🚀 Interested in building SaaS products for real-world problems
-- 🌾 Passionate about Agritech, HR Tech and Workflow Automation
-- 📚 Consistently learning and building projects
+```java
+public class Vinayak {
+
+    String role = "Aspiring Software Engineer";
+
+    String[] currentFocus = {
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "REST APIs",
+        "DSA"
+    };
+
+    String[] interests = {
+        "Backend Engineering",
+        "SaaS Products",
+        "Agritech",
+        "Workflow Automation",
+        "System Design"
+    };
+
+    String goal = "Build products that solve real-world problems";
+}
+```
 
 ---
 
-## 🛠 Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge)
-
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🎯 Current Goals
-
-- Master DSA for Software Engineering roles
-- Build production-ready Spring Boot projects
-- Learn System Design fundamentals
-- Contribute to Open Source
-- Launch my first SaaS product
-
----
-
-## 📈 GitHub Stats
+## 🛠️ Tech Arsenal
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinayakAKattimani&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakAKattimani&layout=compact&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,html,css,js,react,git,github,vscode" />
+
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## 🌱 Currently Learning
+
+- Advanced Java
+- Spring Boot Ecosystem
+- Data Structures & Algorithms
+- React
+- System Design Fundamentals
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Become strong in DSA
+- ✅ Build multiple Spring Boot projects
+- 🔄 Learn Full Stack Development
+- 🔄 Contribute to Open Source
+- 🎯 Launch first SaaS product
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VinayakAKattimani&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakAKattimani&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=VinayakAKattimani&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+```text
+Enable GitHub Actions later and add a Snake Animation here
+```
+
+---
+
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VinayakAKattimani&theme=tokyo-night"/>
+
+---
+
+## 💭 Developer Mindset
+
+> "Every expert was once a beginner who refused to quit."
+
+---
+
+## ⚡ Fun Facts
+
+- 🎧 Can't focus without music
+- ☕ Java by code, coffee optional
+- 🚶 Night walks + music = best debugging sessions
+- 🚀 Interested in building SaaS products from scratch
+- 🌾 Passionate about technology for farmers and small businesses
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VinayakAKattimani&theme=tokyonight" />
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 💡 Quote
+<div align="center">
 
-> "Build. Learn. Improve. Repeat."
+### 🚀 Building Today. Learning Forever.
 
----
-
-### 📫 Connect With Me
-
-- LinkedIn: Add your profile link here
-- Email: Add your email here
+</div>
