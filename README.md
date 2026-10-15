@@ -58,12 +58,3 @@ I build LLM-powered applications, retrieval (RAG) pipelines, and voice AI, backe
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VinayakAKattimani&show_icons=true&theme=default" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakAKattimani&layout=compact&theme=default" height="165" />
-</p>
