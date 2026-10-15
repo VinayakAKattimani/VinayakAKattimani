@@ -19,6 +19,21 @@ I build LLM-powered applications, retrieval (RAG) pipelines, and voice AI, backe
 - 🌱 Learning: advanced RAG pipelines, AI agents, MLOps
 - 💡 Interested in: generative AI, NLP, voice interfaces
 
+### 🚀 What I'm working on
+
+- 🔭 **[Thenflo](https://github.com/VinayakAKattimani/thenflo)**: a multi-service conversational AI platform with LLMs, RAG, voice (STT/TTS) and telephony, built on FastAPI and Docker
+- 🌱 Learning: advanced RAG pipelines, AI agents, MLOps
+- 💡 Interested in: generative AI, NLP, voice interfaces
+
+<p align="center">
+<a href="https://github.com/VinayakAKattimani/thenflo">
+<img src="thenflo-flow.svg" alt="Animated Thenflo request flow" width="850" />
+</a>
+</p>
+
+---
+
+### 🛠️ Tech I work with
 ---
 
 ### 🛠️ Tech I work with
